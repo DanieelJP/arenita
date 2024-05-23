@@ -1,3 +1,4 @@
+---
 - name: Playbook de instalación de herramientas de desarrollo
   hosts: all
   become: yes
